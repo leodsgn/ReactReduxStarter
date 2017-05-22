@@ -1,6 +1,6 @@
-#React and Redux Starter
+# React and Redux Starter
 
-##Getting Started
+## Getting Started
 
 There are two methods for getting started with this repo.
 
